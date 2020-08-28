@@ -36,7 +36,7 @@
 ## How can I install it?
    The application is a portable one so you dont need to install it.Just download and try it out!
    
-   ### Note:Since the application is built on python the file size is pretty big because it includes all the functions in the libraries have imported even the fuctions which i have not used and the file size limit of the Git-hub is 100 MB i have uploaded it to Google Drive.
+### Note:Since the application is built on python the file size is pretty big because it includes all the functions in the libraries have imported even the fuctions which i have not used and the file size limit of the Git-hub is 100 MB i have uploaded it to Google Drive.
     
     
    ### **"This is GUI based application is made for Teachers ease of use"** 
@@ -47,9 +47,50 @@
    2. Next **"Run Attendancecalculator.exe"**,It may take a minute or two to pop-up
       Once it runs it should look something like this;
       
-      ![Basic Help image](
+      ![Basic Help image](https://user-images.githubusercontent.com/46928323/91612104-4f20b380-e99a-11ea-9f83-61e8499ecfc1.png))
       
-   3. 
+   ## **"Note: Check for the Spaces in Entry boxes"**
+   
+   3. Now Enter the **"Parameter1(Student's Names) Column Name"** in entry box, In this case it is "Full Name "
+      
+      ![C1 Help image](https://user-images.githubusercontent.com/46928323/91612509-3369dd00-e99b-11ea-96fb-43807f79c712.png)
+      
+   4. Next Enter the **"Parameter2(Roll Numbers) Column Name"** in entry box, In this case it is "USN "
+   
+      ![C2 Help image](https://user-images.githubusercontent.com/46928323/91612751-b4c16f80-e99b-11ea-8a9c-cf3d858a5fae.png)
+      
+   5. Next **"Select the Attendees list collected(Student's list) with Extension .csv"**,From the Pop-up select the file,In this case it is "finalstudentslist.csv"
+   
+      ![SL Help image](https://user-images.githubusercontent.com/46928323/91613094-79737080-e99c-11ea-9d3c-c5f41e322b86.png)
+      
+   6. Next **"Select the Attendance list downloaded from teams(Attendance list) with Extension .csv"**,From the Pop-up select the file,In this case it is "08-08-2020.csv"
+   
+      ![AL Help image](https://user-images.githubusercontent.com/46928323/91613291-da02ad80-e99c-11ea-8c71-c912ba2f0b14.png)
+      
+   7. Now Enter the **"Time Peroid(Minumum Time student should be present) in Minutes"** in entry box, In this case it is "10"
+     
+      ![MT Help image](https://user-images.githubusercontent.com/46928323/91613340-f43c8b80-e99c-11ea-87ca-a2cefc8d787c.png)
+      
+   ## **"Note: Extensions are taken automatically(.csv)"**
+   
+   8. Next **"Select the Save Absentees as Excel File(This will save Absentees list as Your_typed_Name.csv)"**,Type the filename in the Pop-up,In this case it is "Absentees(10-08-2020).csv"
+   
+      ![SAB Help image](https://user-images.githubusercontent.com/46928323/91614182-afb1ef80-e99e-11ea-91ff-321c1362b42d.png)
+   
+   9. Next **"Select the Save Presentees as Excel File(This will save Presentees list as Your_typed_Name.csv)"**,Type the filename in the Pop-up,In this case it is "Presentees(10-08-2020).csv"
+   
+      ![SPR Help image](https://user-images.githubusercontent.com/46928323/91614268-d7a15300-e99e-11ea-93c5-39d7f8f006b5.png)
+      
+   10. Exit the application and **"Check the saved files"**
+    
+       ![CMP Help image](https://user-images.githubusercontent.com/46928323/91615215-b6416680-e9a0-11ea-9ff1-027821cb2654.png)
+       
+       
+   
+   
+   
+   
+  
    
 
 
