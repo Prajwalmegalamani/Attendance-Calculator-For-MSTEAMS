@@ -36,7 +36,7 @@
 ## How can I install it?
    The application is a portable one so you dont need to install it.Just download and try it out!
    
-### Note:Since the application is built on python the file size is pretty big because it includes all the functions in the libraries have imported even the fuctions which i have not used and the file size limit of the Git-hub is 100 MB i have uploaded it to Google Drive.
+### Note: Since the application is built on python so the file size is pretty big because it includes all the functions in the libraries have imported even the fuctions which i have not used and the file size limit of the Git-hub is 100 MB i have uploaded it to Google Drive.
     
     
    ### **"This is GUI based application is made for Teachers ease of use"** 
