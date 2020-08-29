@@ -1,4 +1,4 @@
-#What do you need to bulid this project yourself?
+# What do you need to bulid this project yourself?
 -> Libraries:
   1. pandas - For reading and writing files.
   2. tkinter - For Interactive GUI (Graphical User Interface).
@@ -7,5 +7,13 @@
   
 -> Some basic knowledge of Python (Programming Language).
 -> Working with Dataset Files with pandas.
--> Use of Stack Overflow :)
+-> Stack Overflow :)
   
+# Algorithm:
+-> Read Attendees File which contains all the info about attendees
+-> Read Attendance File 
+-> Calculate absentees by substracting both file
+-> For Attendees who have joined and left the meeting check for there Useraction
+-> If an Attendee has joined and left the meeting,then calculate the time he was present for
+-> If an Attendee was present for the more than Time Period add him to Presenteeslist
+-> else add hime to Absenteeslist
