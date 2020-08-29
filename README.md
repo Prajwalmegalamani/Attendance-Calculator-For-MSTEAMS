@@ -1,8 +1,8 @@
 # Attendance Calculator
 ## Our small Project to help Teachers and Meeting Organisers to easily Calculate Attendance from Microsoft Teams 
 
-## Project Goal:
- If you are familiar with Microsoft Teams you might have noticed that the Attendance list you download is a Mess, And if you want to Assess it make a list of Absentees and Presentees it would take a Hour.So Here,We are trying to achieve to automate this process by writing a Python code which will help The meeting orgainzers to easily sort the absentees and presentees from the there meetings.These project is specially dedicated to our teachers.
+## About Our Project:
+ If you are familiar with Microsoft Teams you might have noticed that the Attendance list you download is a mess and if you want to assess it, you have to make a list of Absentees and Presentees it would take a lot of time. So Here we are trying to achieve to automate this process by writing a Python code which will help the meeting orgainzers to easily sort the absentees and presentees from the meetings.
 
 
 ## Who can Use:
@@ -11,12 +11,12 @@
 
 ## Prerequisites:
 * List of all the people you wanted them to attend
-  We suggest you to use google forms for this as the present code works best with .csv file downloaded from google forms and its very easy to use also
+  We suggest you to use Google Forms for this as the present code works best with .csv file downloaded from Google Forms and it's very easy to use.
   
   ![Google Forms Help image](https://icwy841l6zopsr5u4960yoyz-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/options-google-form-responses-tab.jpg)
   
-* Attendance list which you download from Microsoft Teams
-  When you have organised Microsoft Teams let's you download Attendance list which contains the log of that present movement happening in the meeting.
+* Attendance list which you download from Microsoft Teams;
+  Microsoft Teams let's you download Attendance list which contains the log of whats happening in the meeting.
   Here the .csv you download has encoding = 'utf-16' and separation = '\t' ,"So do not try to covert this as present code is written only for this encoding type."
    
    ![MS Teams Help image](https://docs.microsoft.com/en-us/microsoftteams/media/meetings-attendance-download.jpg)
@@ -24,19 +24,18 @@
  ## Features:
  * The application is **"Easy To Use"**
  * The application can compare **"Two parameters"**(eg:Name,RollNo) as some studentes have there teams username as either there Nme or there RollNo.
- * The application is **"Case-Sensitive"**(eg:AbC,aBC its take both as same)
  * The application is **"Space Sensitive"**(eg:Ab C,a B C its take both as same)
  * The application can check for a certain **"Time Period"** if the attendee is present or not.
  (eg:[A,joined 11:30],[A,left 11:45], 
  TimePeriod is 10 then A is Present, 
  If TimePeriod is 20 then A is Absent)
- * The application can **"Save the outputs to csv formats"**
+ * The application can **"Save the output to .csv formats"**
  * The application has an **"Intercative Graphical User Interface"** according to ME :wink:
  
 ## How can I install?
-   The application is a portable one so you dont need to install it.Just download and try it out!
+   The application is portable, so you dont need to install it. Just download and try it out!
    
-### Note: Since the application is built on python so the file size is pretty big!
+### Note: Since the application is built on python interface, the file size is pretty big because it includes all the functions and the libraries are imported and even the fuctions which we have not used. Since the file size limit of Git-hub is 100 MB, we have uploaded it to Google Drive.
 
 [Download](https://github.com/Prajwalmegalamani/Attendance-calculator/releases/tag/v1.0)
 
@@ -74,20 +73,20 @@
       
    ## **"Note: Extensions are taken automatically(.csv)"**
    
-   8. Next **"Select the Save Absentees as Excel File(This will save Absentees list as Your_typed_Name.csv)"**,Type the filename in the Pop-up,In this case it is "Absentees(10-08-2020).csv"
+   8. Next **"Select the Save Absentees as Excel File(This will save Absentees list as Your_file_Name.csv)"**,Type the filename in the Pop-up,In this case it is "Absentees(10-08-2020).csv"
    
       ![SAB Help image](https://user-images.githubusercontent.com/46928323/91614182-afb1ef80-e99e-11ea-91ff-321c1362b42d.png)
    
-   9. Next **"Select the Save Presentees as Excel File(This will save Presentees list as Your_typed_Name.csv)"**,Type the filename in the Pop-up,In this case it is "Presentees(10-08-2020).csv"
+   9. Next **"Select the Save Presentees as Excel File(This will save Presentees list as Your_file_Name.csv)"**,Type the filename in the Pop-up,In this case it is "Presentees(10-08-2020).csv"
    
       ![SPR Help image](https://user-images.githubusercontent.com/46928323/91614268-d7a15300-e99e-11ea-93c5-39d7f8f006b5.png)
       
-   10. Exit the application and **"Check the saved files"**
+   10. Exit the application and **"Check saved files"**
     
        ![CMP Help image](https://user-images.githubusercontent.com/46928323/91615215-b6416680-e9a0-11ea-9ff1-027821cb2654.png)
        
    
-   # Do you think anything is missing,or have an idea to make this better let us know.
+   # Do you think anything is missing, or have an idea to make this project better let us know.
    
    
    
