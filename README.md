@@ -31,7 +31,7 @@
  TimePeriod is 10 then A is Present, 
  If TimePeriod is 20 then A is Absent)
  * The application can **"Save the output to .csv formats"**
- * The application has an **"Intercative Graphical User Interface"** according to ME :wink:
+ * The application has an **"Interactive Graphical User Interface"** according to ME :wink:
  
  ## How can I install?
    The application is portable, so you dont need to install it. Just download and try it out!
