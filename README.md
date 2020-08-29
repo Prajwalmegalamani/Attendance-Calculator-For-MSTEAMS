@@ -1,15 +1,15 @@
-# Attendance-calculator
-## Our small Project to help our teachers to easily Calculate Attendance from Microsoft Teams 
+# Attendance Calculator
+## Our small Project to help Teachers and Meeting Organisers to easily Calculate Attendance from Microsoft Teams 
 
-## What is this project trying to achieve?
+## Project Goal:
  If you have you organised Microsoft Teams you might have noticed that the Attendance list you download is a Mess, And if you want to Assess it make a list of Absentees and Presentees it would take a Hour.So Here,We are trying to achieve to automate this process by writing a Python code which will help The meeting orgainzers to easily sort the absentees and presentees from the there meetings.These project is specially dedicated to our teachers.
 
 
-## Who can use it and What are the prerequisites?
+## Who can Use:
  Basically anyone can use it. You will need the Attendance list which you download from Microsoft Teams obviously and a list of all the people you wanted them to attend
 
 
-## Prerequisites
+## Prerequisites:
 * List of all the people you wanted them to attend
   We suggest you to use google forms for this as the present code works best with .csv file downloaded from google forms and its very easy to use also
   
@@ -21,7 +21,7 @@
    
    ![MS Teams Help image](https://docs.microsoft.com/en-us/microsoftteams/media/meetings-attendance-download.jpg)
    
- ## Features
+ ## Features:
  * The application is **"Easy To Use"**
  * The application can compare **"Two parameters"**(eg:Name,RollNo) as some studentes have there teams username as either there Nme or there RollNo.
  * The application is **"Case-Sensitive"**(eg:AbC,aBC its take both as same)
@@ -33,7 +33,7 @@
  * The application can **"Save the outputs to csv formats"**
  * The application has an **"Intercative Graphical User Interface"** according to ME :wink:
  
-## How can I install it?
+## How can I install?
    The application is a portable one so you dont need to install it.Just download and try it out!
    
 ### Note: Since the application is built on python so the file size is pretty big!
