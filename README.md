@@ -96,6 +96,10 @@
    
    # Do you think anything is missing, or have an idea to make this project better let us know.
    
+   # For best results
+   ## Download attendance list from MS Teams when there are maximum attendees.
+   ## Create a Google Form field names without spaces.
+   
    # MADE BY PRAJWAL MEGALAMANI AND ADITYA GIRIGOUDAR.
    
    
