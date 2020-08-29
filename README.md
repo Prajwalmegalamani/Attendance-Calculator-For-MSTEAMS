@@ -33,7 +33,7 @@
  * The application can **"Save the output to .csv formats"**
  * The application has an **"Intercative Graphical User Interface"** according to ME :wink:
  
-## How can I install?
+ ## How can I install?
    The application is portable, so you dont need to install it. Just download and try it out!
    
 ### Note: Since the application is built on python interface, the file size is pretty big because it includes all the functions and the libraries are imported and even the fuctions which we have not used. Since the file size limit of Git-hub is 100 MB, we have uploaded it to Google Drive.
@@ -41,6 +41,11 @@
 [Download](https://github.com/Prajwalmegalamani/Attendance-calculator/releases/tag/v1.0)
 
 ### **"This is GUI based application is made for Teachers ease of use"** 
+
+## Limitations:
+  * You cannot run this application continuesly, You calculate the attendance for one meeting then you need to Exit the application to calculate the attendance for another meeting(Will be avaliable by next update).
+  * Sometimes some of the .csv dont give the requied output(eg: Save absentees list will not work)
+  * You need to input evry thing in the order of the application shows you.
    
 ## How to use it?
    Now let's get down to the fun part,
