@@ -2,7 +2,7 @@
 ## Our small Project to help Teachers and Meeting Organisers to easily Calculate Attendance from Microsoft Teams 
 
 ## Project Goal:
- If you have you organised Microsoft Teams you might have noticed that the Attendance list you download is a Mess, And if you want to Assess it make a list of Absentees and Presentees it would take a Hour.So Here,We are trying to achieve to automate this process by writing a Python code which will help The meeting orgainzers to easily sort the absentees and presentees from the there meetings.These project is specially dedicated to our teachers.
+ If you are familiar with Microsoft Teams you might have noticed that the Attendance list you download is a Mess, And if you want to Assess it make a list of Absentees and Presentees it would take a Hour.So Here,We are trying to achieve to automate this process by writing a Python code which will help The meeting orgainzers to easily sort the absentees and presentees from the there meetings.These project is specially dedicated to our teachers.
 
 
 ## Who can Use:
