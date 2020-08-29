@@ -95,7 +95,6 @@
        
    
    # Do you think anything is missing, or have an idea to make this project better let us know.
-   # Google Drive: https://drive.google.com/file/d/1e_t3-GA7YPvnMlrW6bIou87a135g7kr_/view?usp=sharing
    
    # For best results
    ## Download attendance list from MS Teams when there are maximum attendees.
