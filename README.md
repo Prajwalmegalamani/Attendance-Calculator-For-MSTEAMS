@@ -38,7 +38,7 @@
    
 ### Note: Since the application is built on python interface, the file size is pretty big because it includes all the functions and the libraries are imported and even the fuctions which we have not used. Since the file size limit of Git-hub is 100 MB, we have uploaded it to Google Drive.
 
-[Download](https://github.com/Prajwalmegalamani/Attendance-calculator/releases/tag/v1.0)
+[Download](https://github.com/Prajwalmegalamani/Attendance-calculator/releases/tag/v1.0) (If the download is slow, try the below link)
 
  [Download from Google Drive](https://drive.google.com/file/d/1e_t3-GA7YPvnMlrW6bIou87a135g7kr_/view?usp=sharing)
  
