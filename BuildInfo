@@ -10,10 +10,10 @@
 -> Stack Overflow :)
   
 # Algorithm:
--> Read Attendees File which contains all the info about attendees
--> Read Attendance File 
--> Calculate absentees by substracting both file
--> For Attendees who have joined and left the meeting check for there Useraction
--> If an Attendee has joined and left the meeting,then calculate the time he was present for
--> If an Attendee was present for the more than Time Period add him to Presenteeslist
--> else add hime to Absenteeslist
+-> Read Attendees File which contains all the information about Attendees.
+-> Read Attendance File .
+-> Calculate absentees by substracting both files.
+-> For Attendees who have joined and left the meeting check for there User Action.
+-> If an Attendee has joined and left the meeting,then calculate the time he was present for.
+-> If an Attendee was present for the more than Time Period add him to Presentees list.
+-> Else add him to Absentees list.
