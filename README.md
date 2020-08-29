@@ -24,7 +24,8 @@
  ## Features:
  * The application is **"Easy To Use"**
  * The application can compare **"Two parameters"**(eg:Name,RollNo) as some studentes have there teams username as either there Nme or there RollNo.
- * The application is **"Space Sensitive"**(eg:Ab C,a B C its take both as same)
+ * The application is **"non Case-Sensitive"**(eg:AbC,aBC its take both as same)
+ * The application is **"non Space Sensitive"**(eg:Ab C,a B C its take both as same)
  * The application can check for a certain **"Time Period"** if the attendee is present or not.
  (eg:[A,joined 11:30],[A,left 11:45], 
  TimePeriod is 10 then A is Present, 
