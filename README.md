@@ -40,6 +40,8 @@
 
 [Download](https://github.com/Prajwalmegalamani/Attendance-calculator/releases/tag/v1.0)
 
+ [Download Google Drive](https://drive.google.com/file/d/1e_t3-GA7YPvnMlrW6bIou87a135g7kr_/view?usp=sharing)
+ 
 ![Downloads](https://img.shields.io/github/downloads/Prajwalmegalamani/Attendance-Calculator-For-MSTEAMS/total?style=for-the-badge)
 
 ### **"This is GUI based application is made for Teachers ease of use"** 
@@ -99,8 +101,6 @@
    # For best results
    ## Download attendance list from MS Teams when there are maximum attendees.
    ## Create a Google Form field names without spaces.
-   
-   # Google Drive: https://drive.google.com/file/d/1e_t3-GA7YPvnMlrW6bIou87a135g7kr_/view?usp=sharing
    
    # MADE BY PRAJWAL MEGALAMANI AND ADITYA GIRIGOUDAR.
    
