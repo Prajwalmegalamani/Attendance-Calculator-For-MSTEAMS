@@ -1,0 +1,11 @@
+#What do you need to bulid this project yourself?
+-> Libraries:
+  1. pandas - For reading and writing files.
+  2. tkinter - For Interactive GUI (Graphical User Interface).
+  3. from tkinter import filedialog - For Interactive GUI (Graphical User Interface).
+  4. datetime - For working with Date and Time Constraints.
+  
+-> Some basic knowledge of Python (Programming Language).
+-> Working with Dataset Files with pandas.
+-> Use of Stack Overflow :)
+  
