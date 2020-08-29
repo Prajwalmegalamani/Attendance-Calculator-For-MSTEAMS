@@ -45,7 +45,7 @@
 ## Limitations:
   * You cannot run this application continuesly, You calculate the attendance for one meeting then you need to Exit the application to calculate the attendance for another meeting(Will be avaliable by next update).
   * Sometimes some of the .csv dont give the requied output(eg: Save absentees list will not work)
-  * You need to input evry thing in the order of the application shows you.
+  * You need to input every thing in the order of the application shows you.
    
 ## How to use it?
    Now let's get down to the fun part,
