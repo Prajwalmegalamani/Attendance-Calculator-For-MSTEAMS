@@ -40,7 +40,7 @@
 
 [Download](https://github.com/Prajwalmegalamani/Attendance-calculator/releases/tag/v1.0)
 
- [Download Google Drive](https://drive.google.com/file/d/1e_t3-GA7YPvnMlrW6bIou87a135g7kr_/view?usp=sharing)
+ [Download from Google Drive](https://drive.google.com/file/d/1e_t3-GA7YPvnMlrW6bIou87a135g7kr_/view?usp=sharing)
  
 ![Downloads](https://img.shields.io/github/downloads/Prajwalmegalamani/Attendance-Calculator-For-MSTEAMS/total?style=for-the-badge)
 
